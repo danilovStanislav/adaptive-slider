@@ -1,1 +1,1 @@
-# Тестовое задание Choose Digital
+# Adaptive vue slider
